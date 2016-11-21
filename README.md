@@ -1,6 +1,6 @@
 # MNIST
-PART 1 INSTRUCTIONS FOR PROGRAM
-PCA, LDA and TSNE
+PART 1 INSTRUCTIONS FOR PROGRAM \n
+PCA, LDA and TSNE \n
 For PCA and LDA, please go into the “project/source” directory and ​ type
 python ​ pca_lda.py
 The program takes about 87 seconds to finish and output what the program is doing step
