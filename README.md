@@ -25,7 +25,8 @@ You can define your own parameter set
 Go to the “project/source” directory, type                      
 python multiSMO.py --num_class 10 --kernel_type Gaussian_kernel                          
 --sample_data 1 This program also takes a long time and much memory to run.                        
-Neural Network                          
+
+# Neural Network                          
 Go to the “project/source” directory, type (you can define your own parameter set )                      
 python neural_network.py --size [784,100,10] --epoch 10 --mini_batch_size 10 --eta 0.01 --lmd                     
 0.001 
