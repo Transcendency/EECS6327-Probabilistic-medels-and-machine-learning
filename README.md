@@ -6,11 +6,7 @@ For PCA and LDA, please go into the “project/source” directory and type
 ```bash 
 python pca_lda.py 
 ``` 
-or just open the 
-``` bash
-PCA and LDA.ipynb
-```
-file, every figure is plotted and have very detailed explaination.
+or just open the [PCA and LDA.ipynb](https://github.com/Transcendency/Machine-Leaning-Projects/blob/master/PCA%20and%20LDA.ipynb) file, every figure is plotted and have very detailed explaination.
 
 For TSNE, I do not recommend to run the program, it takes several hours to finish, the figure plotted by tsne will be pasted latter. If you want to run the program, please go into the “project/source” directory and type
 ``` bash
