@@ -1,7 +1,7 @@
 # MNIST
 This is a class project which implemented different basic machine learning models by python and numpy. Each model is implemented in low level such as entory or softmax is included. For detailed report, please check
 
-# PCA, LDA and TSNE                                          
+# PCA, LDA and tSNE                                          
 For PCA and LDA, please go into the “project/source” directory and type                     
 ```bash 
 python pca_lda.py 
@@ -17,14 +17,14 @@ For TSNE, I do not recommend to run the program, it takes several hours to finis
 python tsne.py
 ```
 
-# LINEAR REGRESSION                   
+# Linear Regression                   
 Go to the “project/source” directory, type
 ```bash
 python Linear_regression.py                        
 ```
 The solution computed by normal equation is pretty quick, can view the solution only in less a second.               
 
-# LOGISTIC REGRESSION                   
+# Logistic Regression                   
 Go to the “project/source” directory, type
 ```bash
 python Logistic_regression.py --alpha 0.01 --epochs 10                         
