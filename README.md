@@ -1,4 +1,5 @@
 # MNIST
+This is a class project which implemented different basic machine learning models by python and numpy. Each model is implemented in low level such as entory or softmax is included.
 
 # PCA, LDA and TSNE                                          
 For PCA and LDA, please go into the “project/source” directory and type                     
