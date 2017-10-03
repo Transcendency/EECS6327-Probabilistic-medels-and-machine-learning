@@ -3,13 +3,14 @@ This is a class project which implemented different basic machine learning model
 
 # PCA, LDA and TSNE                                          
 For PCA and LDA, please go into the “project/source” directory and type                     
-python pca_lda.py                     
-The program takes about 87 seconds to finish and output what the program is doing step                         
-by step, the related figure will be plotted one by one by matplot.                             
-For TSNE, I do not recommend to run the program, it takes several hours to finish, the                  
-figure plotted by tsne will be pasted latter. If you want to run the program, please go into the                        
-“project/source” directory and type                      
+```python 
+python pca_lda.py 
+```                     
+The program takes about 87 seconds to finish and output what the program is doing step by step, the related figure will be plotted one by one by matplot.                             
+For TSNE, I do not recommend to run the program, it takes several hours to finish, the figure plotted by tsne will be pasted latter. If you want to run the program, please go into the “project/source” directory and type
+``` python
 python tsne.py
+```
 
 # LINEAR REGRESSION                   
 Go to the “project/source” directory, type                        
