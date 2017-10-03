@@ -1,5 +1,5 @@
 # Machine Learning Projects
-This is a class project which implemented different basic **dismension reduction methods** and **machine learning models** by python and numpy. Each model is implemented in low level such as entory or softmax is included. For detailed report, please check [project.pdf](https://github.com/Transcendency/Machine-Leaning-Projects/blob/master/Project.pdf)
+This is a class project which implemented different basic **dismension reduction methods** and **machine learning models** by python and numpy. Each model is implemented in low level such as entory or softmax is included. For detailed report, please check [project.pdf](https://github.com/Transcendency/Machine-Leaning-Projects/blob/master/Project.pdf).
 
 # PCA, LDA and tSNE                                          
 For PCA and LDA, please go into the “project/source” directory and type                     
@@ -12,7 +12,6 @@ For TSNE, I do not recommend to run the program, it takes several hours to finis
 ``` bash
 python tsne.py
 ```
-
 # Linear Regression                   
 Go to the “project/source” directory, type
 ```bash
@@ -25,7 +24,7 @@ Go to the “project/source” directory, type
 ```bash
 python Logistic_regression.py --alpha 0.01 --epochs 10                         
 ```
-You can define your own parameter set                        
+You can define your own parameter set.                    
 
 # SVM                                  
 Go to the “project/source” directory, type
