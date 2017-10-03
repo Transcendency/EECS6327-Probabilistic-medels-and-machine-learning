@@ -1,5 +1,5 @@
-# MNIST
-This is a class project which implemented different basic machine learning models by python and numpy. Each model is implemented in low level such as entory or softmax is included. For detailed report, please check [project.pdf](https://github.com/Transcendency/Machine-Leaning-Projects/blob/master/Project.pdf)
+# Machine Learning Projects
+This is a class project which implemented different basic **dismension reduction methods** and **machine learning models** by python and numpy. Each model is implemented in low level such as entory or softmax is included. For detailed report, please check [project.pdf](https://github.com/Transcendency/Machine-Leaning-Projects/blob/master/Project.pdf)
 
 # PCA, LDA and tSNE                                          
 For PCA and LDA, please go into the “project/source” directory and type                     
